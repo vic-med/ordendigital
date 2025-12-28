@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Orden Digital",
+    "url": "https://www.ordendigital.com.ar",
+    "description": "Diseño web y presencia digital clara y funcional para profesionales y pequeños comercios en Argentina.",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Argentina"
+    },
+    "serviceType": [
+      "Diseño web",
+      "Presencia digital profesional",
+      "Implementación Odoo POS"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "email": "info@ordendigital.com.ar"
+    }
+  }
