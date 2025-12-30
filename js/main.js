@@ -1,5 +1,3 @@
-fetch("data/config.json")
-
     document.addEventListener("DOMContentLoaded", function () {
       const form = document.getElementById("contactForm");
       const projectRadios = document.querySelectorAll('input[name="tipo_proyecto"]');
