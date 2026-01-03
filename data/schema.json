@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "name": "Orden Digital",
+    "url": "https://www.ordendigital.com.ar",
+    "description": "Diseño web y soluciones digitales para profesionales y pequeños negocios en Argentina.",
+    "areaServed": {
+      "@type": "Country",
+      "name": "Argentina"
+    },
+    "serviceType": [
+      "Diseño web",
+      "Presencia digital profesional",
+      "Soluciones digitales para negocios"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "email": "info@ordendigital.com.ar"
+    }
+  }
